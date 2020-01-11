@@ -1,0 +1,10 @@
+{
+	"name": "hell-sh/pas",
+	"description": "Everything you need to write asynchronous PHP code",
+	"homepage": "https://github.com/hell-sh/Asyncore-composer-legacy",
+	"type": "library",
+	"license": "MIT",
+	"require": {
+		"hell-sh/asyncore": "^1.0"
+	}
+}
